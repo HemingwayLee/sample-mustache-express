@@ -8,3 +8,5 @@
 npm install
 node index.js
 ```
+
+* Check `http://localhost:3000/` in your browser
