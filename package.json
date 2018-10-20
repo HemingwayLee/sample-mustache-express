@@ -1,0 +1,23 @@
+{
+  "name": "sample-mustache-express",
+  "version": "1.0.0",
+  "description": "sample code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HemingwayLee/sample-mustache-express.git"
+  },
+  "author": "ywlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HemingwayLee/sample-mustache-express/issues"
+  },
+  "homepage": "https://github.com/HemingwayLee/sample-mustache-express#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mustache-express": "^1.2.8"
+  }
+}
